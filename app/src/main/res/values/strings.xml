@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Anime_List</string>
+    <string name="Title_Splash">My List Anime</string>
+    <string name="Creator_Splash">By オサマ</string>
+    <string name="Error_Message">Oops...! Al paracer no hay animes que mostrar por el momento</string>
+    <string name="Recommendation">Recomendación del dia</string>
+    <string name="All_Anime">Todos los animes</string>
+
+    <string name="Language_Japanese">Japonés</string>
+    <string name="Language_English">Inglés</string>
+    <string name="Score">Puntuación</string>
+    <string name="Airing">Estado</string>
+    <string name="Release">Emisión</string>
+    <string name="Synopsis">Sinopsis</string>
+    <string name="Episodes">Episodios</string>
+    <string name="Duration">Duración de episodio</string>
+    <string name="Genres">Género</string>
+    <string name="Streaming">Disponible en plataformas</string>
+    <string name="Trailer">Ver trailer</string>
+    <string name="Error_Anime">Oops...! No se pudo encontrar el Anime seleccinado</string>
+    <string name="Home_Page">Home</string>
+    <string name="Trend">Tendencias</string>
+    <string name="Season">Temporada</string>
+    <string name="Top_Anime">Top Anime</string>
+    <string name="Top_Reviews">Top Reviews</string>
+    <string name="Search"> Busqueda </string>
+
+</resources>
